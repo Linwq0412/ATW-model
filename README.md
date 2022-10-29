@@ -9,7 +9,7 @@ The script atw_case1.m is an simple case to do the calculation.
 dx: is the horizontal grid (unit: m);  dx = 2000  
 Lx: is the cross-shore width of continental shelf (unit: m);  Lx = 200e3  
 Ly: is the alongshore length of continental shelf (unit: m);  Ly = 6000e3  
-s0: is the slope the shelf (s=dh/dx);  s0 = 0.001  
+s0: is the slope of the shelf (s=dh/dx);  s0 = 0.001  
 r0: is the bottom friction coefficient (unit: m s-1);  r0 = 5*10^-4  
 ko:  is the wavenumber of the open-ocean forcing;  ko = 1/6000e3  
 amp: is the amplitude of the open-ocean forcing (unit:m);  amp = -0.24  
